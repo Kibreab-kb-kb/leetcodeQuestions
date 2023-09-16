@@ -1,5 +1,3 @@
-from collections import Counter
-
 class Solution:
     def findOriginalArray(self, changed):
         if len(changed) % 2 != 0:
